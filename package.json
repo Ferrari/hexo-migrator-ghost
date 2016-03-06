@@ -1,0 +1,16 @@
+{
+  "name": "hexo-migrator-ghost",
+  "version": "1.0.0",
+  "description": "Ghost migrator plugin for Hexo",
+  "main": "index.js",
+  "keywords": [
+    "hexo",
+    "ghost",
+    "migrator"
+  ],
+  "author": "Ferrari Lee <shiyung@gmail.com>",
+  "dependencies": {
+    "JSONStream": "^1.1.1",
+    "event-stream": "^3.3.2"
+  }
+}
