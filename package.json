@@ -1,5 +1,5 @@
 {
-  "name": "hexo-migrator-ghost",
+  "name": "hexo-migrator-tryghost",
   "version": "1.0.0",
   "description": "Ghost migrator plugin for Hexo",
   "main": "index.js",
@@ -12,5 +12,8 @@
   "dependencies": {
     "JSONStream": "^1.1.1",
     "event-stream": "^3.3.2"
+  },
+  "script": {
+    "prepublish": "npm prune"
   }
 }
