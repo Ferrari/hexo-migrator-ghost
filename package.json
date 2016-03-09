@@ -8,7 +8,10 @@
     "ghost",
     "migrator"
   ],
-  "author": "Ferrari Lee <shiyung@gmail.com>",
+  "author": {
+    "name": "Ferrari Lee",
+    "email": "shiyung@gmail.com"
+  },
   "dependencies": {
     "JSONStream": "^1.1.1",
     "event-stream": "^3.3.2"
