@@ -5,7 +5,7 @@ Migrate your blog from Ghost to [Hexo].
 ## Install
 
 ``` bash
-$ npm install hexo-migrator-ghost --save
+$ npm install hexo-migrator-tryghost --save
 ```
 
 ## Usage
